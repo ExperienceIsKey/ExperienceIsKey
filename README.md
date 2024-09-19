@@ -1,6 +1,6 @@
 ## Hi👋, I'm Anubhav Dubey
 
-Recent grad with a Masters degree in Business Analytics with a focus in Digital Marketing from University of Colorado Boulder, Leeds School of Business. I have about 2 years of professional experience working as a Big Data Engineer. Looking for my first Data job in the U.S.
+Recent grad with a Masters degree in Business Analytics with a focus in Digital Marketing from University of Colorado Boulder, Leeds School of Business. I have about 2 years of professional experience working as a Big Data Engineer.
 
 - 🔭 I’m currently working on expanding my skills in Data Engineering and Analytics along with working with a Professor on a Project
 - 🌱 I’m currently learning Amazon Web Services and enhacing my Data Engineering skills
@@ -37,6 +37,7 @@ Recent grad with a Masters degree in Business Analytics with a focus in Digital 
 
 
 **HackerRank** : <br>
+
 ![image](https://github.com/user-attachments/assets/675ea4da-23bb-4322-be30-87d3bb11949f)
 
 ![image](https://github.com/user-attachments/assets/b36e5b08-6c24-4554-9ad1-184ad14e093d)
