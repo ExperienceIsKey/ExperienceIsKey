@@ -44,5 +44,3 @@ Recent grad with a Masters degree in Business Analytics with a focus in Digital 
 
 ## Work Eligibility :
 Authorized to work in the U.S (OPT STEM ELIGIBLE)
-
-Seeking visa sponsorship to work long-term
