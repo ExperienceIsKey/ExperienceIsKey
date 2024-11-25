@@ -35,6 +35,7 @@ Recent grad with a Masters degree in Business Analytics with a focus in Digital 
 
 ![image](https://github.com/user-attachments/assets/c9b0da6f-9aa2-4736-be82-2e0be742bb3d)
 
+![image](https://github.com/user-attachments/assets/a1103b0b-0d9a-4b6d-854d-32587d23adc0)
 
 **HackerRank** : <br>
 
