@@ -41,7 +41,7 @@ Recent grad with a Masters degree in Business Analytics with a focus in Digital 
 
 ![image](https://github.com/user-attachments/assets/675ea4da-23bb-4322-be30-87d3bb11949f)
 
-![image](![image](https://github.com/user-attachments/assets/884e0ac3-065d-4fb3-8b04-13b1ec90f449)
+![image](https://github.com/user-attachments/assets/884e0ac3-065d-4fb3-8b04-13b1ec90f449)
 
 ## Work Eligibility :
 Authorized to work in the U.S (OPT STEM ELIGIBLE)
