@@ -3,8 +3,8 @@
 Recent grad with a Masters degree in Business Analytics with a focus in Digital Marketing from University of Colorado Boulder, Leeds School of Business. I have about 2 years of professional experience working as a Big Data Engineer.
 
 - 🔭 I’m currently working on expanding my skills in Data Engineering and Analytics along with working with a Professor on a Project
-- 🌱 I’m currently learning Amazon Web Services and enhacing my Data Engineering skills
-- 🤔 I’m looking for help with Referrals and leads for opportunities for Data Engineer and Data Analyst roles in the Unites States of America
+- 🌱 I’m currently learning Amazon Web Services and Power BI, enhacing my Data skills
+- 🤔 I’m looking for help with Referrals and leads for opportunities for Business Intelligence Analyst/ Data Analyst/ Data Engineer roles in the Unites States of America
 - 💬 Ask me about Data, Academics, Technologies, Golf, Video Games, Travelling.
 - 😄 Pronouns: he/him/his
 
