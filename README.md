@@ -28,6 +28,7 @@ Recent grad with a Masters degree in Business Analytics with a focus in Digital 
 ![JIRA](https://img.shields.io/badge/Jira-0052CC.svg?style=for-the-badge&logo=Jira&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C.svg?style=for-the-badge&logo=Apache-Spark&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)
+![Excel](https://img.icons8.com/?size=100&id=117561&format=png&color=000000)
 
 # 📊 Competitive Coding Stats:
 
