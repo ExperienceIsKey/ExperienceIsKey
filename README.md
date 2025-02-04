@@ -34,7 +34,7 @@ Recent grad with a Masters degree in Business Analytics with a focus in Digital 
 
 # 📊 Competitive Coding Stats:
 
-**![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)** : <br>
+**![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)** : <br>
 
 ![image](https://github.com/user-attachments/assets/c9b0da6f-9aa2-4736-be82-2e0be742bb3d)
 
