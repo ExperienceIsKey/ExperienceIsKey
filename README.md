@@ -5,9 +5,10 @@ Recent grad with a Masters degree in Business Analytics with a focus in Digital 
 - 🔭 I’m currently working on expanding my skills in Data Engineering and Analytics along with working with a Professor on a Project
 - 🌱 I’m currently learning Amazon Web Services and Power BI, enhacing my Data skills
 - 🤔 I’m looking for help with Referrals and leads for opportunities for Business Intelligence Analyst/ Data Analyst/ Data Engineer roles in the Unites States of America
+- 🔍 I am actively seeking full-time, contract, and internship opportunities.
+- 📍 I’m open to relocating for the right opportunity, with or without relocation assistance.
 - 💬 Ask me about Data, Academics, Technologies, Golf, Video Games, Travelling.
 - 😄 Pronouns: he/him/his
-- 📍 I’m open to relocating for the right opportunity, with or without relocation assistance.
 
 ## 🌐 Reach me at :
 
@@ -46,6 +47,3 @@ Recent grad with a Masters degree in Business Analytics with a focus in Digital 
 ![image](https://github.com/user-attachments/assets/675ea4da-23bb-4322-be30-87d3bb11949f)
 
 ![image](https://github.com/user-attachments/assets/884e0ac3-065d-4fb3-8b04-13b1ec90f449)
-
-## Work Eligibility :
-Authorized to work in the U.S (OPT STEM ELIGIBLE)
