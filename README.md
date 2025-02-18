@@ -7,6 +7,7 @@ Recent grad with a Masters degree in Business Analytics with a focus in Digital 
 - 🤔 I’m looking for help with Referrals and leads for opportunities for Business Intelligence Analyst/ Data Analyst/ Data Engineer roles in the Unites States of America
 - 💬 Ask me about Data, Academics, Technologies, Golf, Video Games, Travelling.
 - 😄 Pronouns: he/him/his
+- 📍 I’m open to relocating for the right opportunity, with or without relocation assistance.
 
 ## 🌐 Reach me at :
 
