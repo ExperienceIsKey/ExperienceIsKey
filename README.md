@@ -4,9 +4,6 @@ Data Analyst and a Grad with a Masters degree in Business Analytics with a focus
 
 - 🔭 I’m currently working as a Data Analyst at AdElement
 - 🌱 I’m currently working on enhancing my Programmatic Advertising and AdTech Knowledge 
-<!--- 🤔 I’m looking for help with Referrals and leads for opportunities for Business Intelligence Analyst/ Data Analyst/ Data Engineer roles in the Unites States of America-->
-<!--- 🔍 I am actively seeking full-time, contract, and internship opportunities.-->
-<!--- 📍 I’m open to relocating for the right opportunity, with or without relocation assistance.-->
 - 💬 Ask me about Data, AdTech, Academics, Technologies, Golf, Video Games, Travelling.
 - 😄 Pronouns: he/him/his
 
@@ -47,3 +44,8 @@ Data Analyst and a Grad with a Masters degree in Business Analytics with a focus
 ![image](https://github.com/user-attachments/assets/675ea4da-23bb-4322-be30-87d3bb11949f)
 
 ![image](https://github.com/user-attachments/assets/884e0ac3-065d-4fb3-8b04-13b1ec90f449)
+
+
+<!--- 🤔 I’m looking for help with Referrals and leads for opportunities for Business Intelligence Analyst/ Data Analyst/ Data Engineer roles in the Unites States of America-->
+<!--- 🔍 I am actively seeking full-time, contract, and internship opportunities.-->
+<!--- 📍 I’m open to relocating for the right opportunity, with or without relocation assistance.-->
