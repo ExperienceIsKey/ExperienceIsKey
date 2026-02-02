@@ -2,7 +2,7 @@
 
 Data Analyst and a Grad with a Masters degree in Business Analytics with a focus in Digital Marketing from University of Colorado Boulder, Leeds School of Business. I have about 3 years of professional experience.
 
-- 🔭 I’m currently working as a Data Analyst at AdElement
+- 🔭 I am currently working as a Data Analyst at AdElement, specializing in programmatic advertising
 - 🌱 I am currently enhancing my expertise in Programmatic Advertising and AdTech.
 - 💬 Ask me about Data, AdTech, Academics, Technologies, Golf, Video Games, Travelling.
 - 😄 Pronouns: he/him/his
